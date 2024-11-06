@@ -1,4 +1,5 @@
 QUINTEROS EVA
+09:47
 Adaptador de Ethernet Ethernet:
 
    Estado de los medios. . . . . . . . . . . : medios desconectados
